@@ -92,7 +92,7 @@ package.json
       scripts-MD5SUM.js
 ```
 
-# maren.json
+## maren.json
 
 ```json
 {
@@ -105,7 +105,7 @@ package.json
 
 If `theme` not specified, `default` is used.
 
-# Code
+## Code
 
 ```js
 const maren = require('maren');
