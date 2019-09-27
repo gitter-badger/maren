@@ -1,5 +1,7 @@
 # Maren
 
+[![Join the chat at https://gitter.im/penge/maren](https://badges.gitter.im/penge/maren.svg)](https://gitter.im/penge/maren?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Theme based markdown renderer.
 
 ## Installation
